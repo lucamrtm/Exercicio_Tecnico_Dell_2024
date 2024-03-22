@@ -1,4 +1,4 @@
-# **Controle de Apostas - Sistema de Controle de Apostas**
+# **Sistema de Controle de Apostas**
 ## Este é um sistema desenvolvido em Java para controle de apostas, como parte de um exercício técnico em um processo seletivo de estágio. O sistema permite aos usuários registrar apostas, realizar sorteios e apurar os ganhadores, além de calcular e premiar os vencedores.
 ---
 # Tecnologias Utilizadas
